@@ -14,10 +14,10 @@ Findings -
 
 Analysis -
 
-a. Load the dataset in Power BI
-b. Transorm the dataset by handling the missing values, changing the column names, removing the unimporant column for current analysis 
-c. Creating the heriarchy for Date 
-d. Create the charts and format the visualization
+1. Load the dataset in Power BI
+2. Transorm the dataset by handling the missing values, changing the column names, removing the unimporant column for current analysis 
+3. Creating the heriarchy for Date 
+4. Create the charts and format the visualization
 
 ![image](https://github.com/sapnakhandelwal/Weather-Data-Analysis/assets/147053399/3bea4824-4d0e-4a4e-b878-bf167e534045)
 
