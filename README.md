@@ -3,13 +3,16 @@ Analysing the different attributes of Weather with respect to Time (Day, Month, 
 Dataset Link - https://www.ncei.noaa.gov/cdo-web/datasets
 
 This is my first Dashboard in Power BI
-Findings
+
+Findings -
+
 1. Dataset have lots of measure attributes and less dimension attributes
 2. Dataset have lots of missing values
 3. Few columns are not useful for analysis purpose
 4. Dataset have lots of duplicated values across few columns
 
-Analysis
+Analysis -
+
 a. Load the dataset in Power BI
 b. Transorm the dataset by handling the missing values, changing the column names, removing the unimporant column for current analysis 
 c. Creating the heriarchy for Date 
